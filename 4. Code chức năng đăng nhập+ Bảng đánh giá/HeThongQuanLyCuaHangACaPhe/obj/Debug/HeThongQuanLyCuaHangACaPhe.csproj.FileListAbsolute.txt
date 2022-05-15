@@ -1,0 +1,11 @@
+D:\Phan tich thuyet ke he thong\Quản lý cửa hàng À Cà Phê\HeThongQuanLyCuaHangACaPhe\HeThongQuanLyCuaHangACaPhe\bin\Debug\HeThongQuanLyCuaHangACaPhe.exe.config
+D:\Phan tich thuyet ke he thong\Quản lý cửa hàng À Cà Phê\HeThongQuanLyCuaHangACaPhe\HeThongQuanLyCuaHangACaPhe\bin\Debug\HeThongQuanLyCuaHangACaPhe.exe
+D:\Phan tich thuyet ke he thong\Quản lý cửa hàng À Cà Phê\HeThongQuanLyCuaHangACaPhe\HeThongQuanLyCuaHangACaPhe\bin\Debug\HeThongQuanLyCuaHangACaPhe.pdb
+D:\Phan tich thuyet ke he thong\Quản lý cửa hàng À Cà Phê\HeThongQuanLyCuaHangACaPhe\HeThongQuanLyCuaHangACaPhe\obj\Debug\HeThongQuanLyCuaHangACaPhe.csproj.AssemblyReference.cache
+D:\Phan tich thuyet ke he thong\Quản lý cửa hàng À Cà Phê\HeThongQuanLyCuaHangACaPhe\HeThongQuanLyCuaHangACaPhe\obj\Debug\HeThongQuanLyCuaHangACaPhe.Form1.resources
+D:\Phan tich thuyet ke he thong\Quản lý cửa hàng À Cà Phê\HeThongQuanLyCuaHangACaPhe\HeThongQuanLyCuaHangACaPhe\obj\Debug\HeThongQuanLyCuaHangACaPhe.Form2.resources
+D:\Phan tich thuyet ke he thong\Quản lý cửa hàng À Cà Phê\HeThongQuanLyCuaHangACaPhe\HeThongQuanLyCuaHangACaPhe\obj\Debug\HeThongQuanLyCuaHangACaPhe.Properties.Resources.resources
+D:\Phan tich thuyet ke he thong\Quản lý cửa hàng À Cà Phê\HeThongQuanLyCuaHangACaPhe\HeThongQuanLyCuaHangACaPhe\obj\Debug\HeThongQuanLyCuaHangACaPhe.csproj.GenerateResource.cache
+D:\Phan tich thuyet ke he thong\Quản lý cửa hàng À Cà Phê\HeThongQuanLyCuaHangACaPhe\HeThongQuanLyCuaHangACaPhe\obj\Debug\HeThongQuanLyCuaHangACaPhe.csproj.CoreCompileInputs.cache
+D:\Phan tich thuyet ke he thong\Quản lý cửa hàng À Cà Phê\HeThongQuanLyCuaHangACaPhe\HeThongQuanLyCuaHangACaPhe\obj\Debug\HeThongQuanLyCuaHangACaPhe.exe
+D:\Phan tich thuyet ke he thong\Quản lý cửa hàng À Cà Phê\HeThongQuanLyCuaHangACaPhe\HeThongQuanLyCuaHangACaPhe\obj\Debug\HeThongQuanLyCuaHangACaPhe.pdb
